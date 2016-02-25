@@ -2,7 +2,7 @@
 Redux PubSub Service over WebSockets
 
 ## Installation
-### As a script (but you should really consider using [ventsh](https://github.com/venthub/venthub-cli) instead)
+### As a script (but you should really consider using [ventsh](https://github.com/venthub/ventsh) instead)
 `npm i -g venthub`
 
 ### As a module
