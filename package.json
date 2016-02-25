@@ -1,0 +1,21 @@
+{
+  "name": "venthub",
+  "version": "2.0.2",
+  "description": "Redux PubSub Service",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/venthub/venthub"
+  },
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alon Niv",
+  "bin": {
+    "venthub": "./bin/venthub.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^1.0.1"
+  }
+}
